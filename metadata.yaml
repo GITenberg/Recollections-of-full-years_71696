@@ -1,11 +1,16 @@
 _repo: Recollections-of-full-years_71696
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71696-h/images/cover.jpg
 creator:
   author:
     agent_name: Taft, Mrs. William Howard
     gutenberg_agent_id: '56336'
     url: http://www.gutenberg.org/2009/agents/56336
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71696#Recollections-of-full-years
 gutenberg_issued: '2023-09-21'
 identifiers:
   gutenberg: '71696'
